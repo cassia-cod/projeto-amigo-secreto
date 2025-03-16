@@ -48,4 +48,4 @@ function sortearAmigo() {
     document.getElementById('listaAmigos').innerHTML = ""; // Limpar a lista
     document.getElementById('resultado').innerHTML = ""; // Limpar o resultado
     document.getElementById('amigo').value = ""; // Limpar o campo de texto
-//O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
+    
